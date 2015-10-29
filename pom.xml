@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.es.construcao</groupId>
-    <artifactId>Avaliacao/artifactId>
+    <artifactId>Avaliacao</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
     <name>Avaliçao Construção de Software</name>
