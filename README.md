@@ -1,4 +1,4 @@
 # prova
-[<img src="https://api.travis-ci.org/kyriosdata/construcao.svg?branch=master">](https://travis-ci.org/kyriosdata/construcao)
+[<img src="https://travis-ci.org/MSSDavid/prova.svg">](https://travis-ci.org/MSSDavid/prova)
 
 Avaliacao
