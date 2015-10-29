@@ -12,9 +12,9 @@
 
     <modules>
 		<module>DivideSomas</module>
-		<module>DivideSubt/module>
-		<module>ModSimples/module>
-                <module>SomaDiv/module>
+		<module>DivideSubt</module>
+		<module>ModSimples</module>
+                <module>SomaDiv</module>
     </modules>
 
     <build>
