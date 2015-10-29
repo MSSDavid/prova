@@ -4,18 +4,17 @@
                              http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>br.ufg.inf.es.construcao</groupId>
-    <artifactId>exemplos</artifactId>
+    <groupId>br.com.es.construcao</groupId>
+    <artifactId>Avaliacao/artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <name>Exemplos Construção de Software</name>
+    <name>Avaliçao Construção de Software</name>
 
     <modules>
-		<module>paridade</module>
-		<module>calendario</module>
-		<module>funcoes</module>
-                <module>produto</module>
-		<module>primos</module>
+		<module>DivideSomas</module>
+		<module>DivideSubt/module>
+		<module>ModSimples/module>
+                <module>SomaDiv/module>
     </modules>
 
     <build>
