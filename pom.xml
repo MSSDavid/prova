@@ -11,6 +11,8 @@
     <modules>
 		<module>DivideSomas</module>
 		<module>DivideSubt</module>
+                <module>DParidade</module>
+                <module>Prop1538</module>		
 		<module>ModSimples</module>
                 <module>SomaDiv</module>
     <module>Hipotenusa</module>
