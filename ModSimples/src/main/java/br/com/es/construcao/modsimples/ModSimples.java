@@ -3,9 +3,8 @@ package br.com.es.construcao.modsimples;
 import br.com.es.construcao.divideSubt.DivideSubt;
 
 /**
- *
- * @author David Matheus
  * 
+ * @author alunoinf
  */
 public class ModSimples {
     
