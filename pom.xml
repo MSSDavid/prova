@@ -13,6 +13,7 @@
 		<module>DivideSubt</module>
 		<module>ModSimples</module>
                 <module>SomaDiv</module>
+    <module>Hipotenusa</module>
   </modules>
 
     <build>
