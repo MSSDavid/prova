@@ -9,17 +9,17 @@
     <name>Avaliçao Construção de Software</name>
 
     <modules>
-		<module>DivideSomas</module>
-		<module>DivideSubt</module>
-                <module>Paridade</module>
                 <module>Prop1538</module>		
                 <module>SomaDiv</module>
-                <module>Produto4</module>
                 <module>Potencia05</module>
                 <module>PotenciaSoma06</module>
                 <module>Propriedade302507</module>
-    <module>Propriedade15308</module>
-  </modules>
+        <module>DivideSomas24</module>
+        <module>DivideSubt25</module>
+        <module>Produto04</module>
+        <module>Paridade02</module>
+        <module>SomaNaturais03</module>
+    </modules>
 
     <build>
         <pluginManagement>

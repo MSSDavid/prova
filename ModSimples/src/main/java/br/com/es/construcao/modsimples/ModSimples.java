@@ -1,6 +1,6 @@
 package br.com.es.construcao.modsimples;
 
-import br.com.es.construcao.divideSubt;
+import br.com.es.construcao.dividesubt.DivideSubt;
 
 /**
  * 

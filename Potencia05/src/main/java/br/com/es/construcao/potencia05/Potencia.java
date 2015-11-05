@@ -1,5 +1,7 @@
 package br.com.es.construcao.potencia05;
 
+import br.com.es.construcao.produto4.Produto;
+
 /**
  * x: base
  * y: potência
@@ -21,7 +23,7 @@ public class Potencia {
         int p = 1;
     
         while ( i <= y ) {
-            p = p * x;
+            p = Produto.produto(x, y);
             i += 1;
         }
     
