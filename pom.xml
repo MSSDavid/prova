@@ -11,14 +11,15 @@
     <modules>
                 <module>Prop1538</module>		
                 <module>SomaDiv</module>
-                <module>Potencia05</module>
+                 <module>Produto04</module>
+                 <module>Potencia05</module>
                 <module>PotenciaSoma06</module>
                 <module>Propriedade302507</module>
         <module>DivideSomas24</module>
         <module>DivideSubt25</module>
-        <module>Produto04</module>
         <module>Paridade02</module>
         <module>SomaNaturais03</module>
+        <module>DiaSemana01</module>
     </modules>
 
     <build>

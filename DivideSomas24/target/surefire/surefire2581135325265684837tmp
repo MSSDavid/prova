@@ -1,7 +1,0 @@
-#surefire
-#Thu Oct 29 20:07:50 BRST 2015
-maven.ext.class.path=/usr/local/netbeans-8.0.1/java/maven-nblib/netbeans-eventspy.jar
-user.dir=/home/alunoinf/NetBeansProjects/DivideSomas
-localRepository=/home/alunoinf/.m2/repository
-basedir=/home/alunoinf/NetBeansProjects/DivideSomas
-test=br.com.es.construcao.dividesomas.divideSomasTest

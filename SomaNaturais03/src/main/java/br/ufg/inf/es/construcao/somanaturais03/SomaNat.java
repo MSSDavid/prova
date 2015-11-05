@@ -1,4 +1,4 @@
-package br.ufg.inf.es.construcao;
+package br.ufg.inf.es.construcao.somanaturais03;
 
 /**
  *
