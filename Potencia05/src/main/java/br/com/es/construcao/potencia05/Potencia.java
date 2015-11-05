@@ -23,7 +23,7 @@ public class Potencia {
         int p = 1;
     
         while ( i <= y ) {
-            p = Produto.produto(x, y);
+            p = Produto.produto(x, p);
             i += 1;
         }
     
