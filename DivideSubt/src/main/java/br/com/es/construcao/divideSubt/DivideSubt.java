@@ -2,7 +2,10 @@ package br.com.es.construcao.divideSubt;
 
 /**
  *
- * @author alunoinf
+ * x: Dividendo
+ * y: Divisor
+ * s: Variável Auxiliar
+ * d: Quociente
  */
 public class DivideSubt {
     

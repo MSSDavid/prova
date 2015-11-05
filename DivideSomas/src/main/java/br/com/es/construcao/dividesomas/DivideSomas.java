@@ -1,8 +1,10 @@
 package br.com.es.construcao.dividesomas;
 
 /**
- *
- * @author alunoinf
+* x: Dividendo
+ * y: Divisor
+ * s: Variável Auxiliar
+ * d: Quociente
  */
 public class DivideSomas {
     

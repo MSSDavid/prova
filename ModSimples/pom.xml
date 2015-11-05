@@ -19,7 +19,7 @@
         </dependency>
         <dependency>
             <groupId>br.com.es.construcao.divideSubt</groupId>
-            <artifactId>DivideSubt.java</artifactId>
+            <artifactId>DivideSubt</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
