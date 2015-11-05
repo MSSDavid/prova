@@ -16,7 +16,9 @@
                 <module>SomaDiv</module>
                 <module>Produto4</module>
                 <module>Potencia05</module>
-                 <module>PotenciaSoma06</module>
+                <module>PotenciaSoma06</module>
+                <module>Propriedade302507</module>
+    <module>Propriedade15308</module>
   </modules>
 
     <build>
