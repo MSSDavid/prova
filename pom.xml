@@ -11,6 +11,7 @@
     <modules>
                  <module>Produto04</module>
                  <module>DiaSemana01</module>
+                 <module>ModSimples</module>                 
                   <module>PotenciaSoma06</module>
                  <module>Propriedade302507</module>
                  <module>DivideSomas24</module>
