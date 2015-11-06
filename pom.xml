@@ -6,7 +6,7 @@
     <artifactId>Avaliacao</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <name>Avaliaçao Construção de Software-ES</name>
+    <name>Avaliaçao Construção de Software</name>
 
     <modules>
                  <module>Produto04</module>
