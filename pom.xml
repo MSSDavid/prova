@@ -25,7 +25,8 @@
     <module>Primo09</module>
     <module>MDC11</module>
     <module>MCD212</module>
-  </modules>
+    <module>Fatorial16</module>
+    </modules>
 
     <build>
         <pluginManagement>
