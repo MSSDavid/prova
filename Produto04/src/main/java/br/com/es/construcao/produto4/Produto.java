@@ -16,7 +16,7 @@ public class Produto {
             throw new IllegalArgumentException("b: menor que 0");
         }
         
-        int i = 1;
+        int i = 10;
         int s = 0;
         
         while ( i <= b) {
