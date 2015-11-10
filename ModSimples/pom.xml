@@ -18,7 +18,7 @@
             <version>4.11</version>            
         </dependency>
         <dependency>
-            <groupId>br.com.es.construcao</groupId>
+            <groupId>br.ufg.inf.es.construcao</groupId>
             <artifactId>DivideSubt25</artifactId>
             <version>1.0-SNAPSHOT</version>
             <type>jar</type>
