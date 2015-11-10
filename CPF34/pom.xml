@@ -8,9 +8,9 @@
     <version>1.0</version>
   </parent>
   <groupId>br.ufg.inf.es.construcao</groupId>
-  <artifactId>CPF33</artifactId>
+  <artifactId>CPF34</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>CPF33</name>
+  <name>CPF34</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,12 +21,12 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
-    </dependency>   
+    </dependency>
     <dependency>
        <groupId>br.ufg.inf.es.construcao</groupId>
        <artifactId>Mod27</artifactId>
        <version>1.0-SNAPSHOT</version>
        <type>jar</type>
-    </dependency>
+    </dependency>    
   </dependencies>
 </project>
