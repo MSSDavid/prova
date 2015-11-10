@@ -26,9 +26,9 @@ public class TestRaizQuad {
     
     @Test
     public void testCasos() {
-        Assert.assertEquals(3, 3, 9);
-        Assert.assertEquals(4, 4, 16);
-        Assert.assertEquals(5, 5, 25);       
+        Assert.assertEquals(14400, 2, 25600);
+        Assert.assertEquals(4, 2, 16);
+        Assert.assertEquals(5, 2, 25);       
        
     }   
 }
