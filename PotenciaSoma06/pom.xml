@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>br.com.es.construcao</groupId>
+    <groupId>br.ufg.inf.es.construcao</groupId>
     <artifactId>Avaliacao</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>br.com.es.construcao</groupId>
+  <groupId>br.ufg.inf.es.construcao</groupId>
   <artifactId>PotenciaSoma06</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>PotenciaSoma06</name>

@@ -1,5 +1,6 @@
 package br.com.es.construcao.propriedade302507;
 
+import br.ufg.inf.es.construcao.propriedade302507.Prop3025;
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertTrue;

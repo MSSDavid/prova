@@ -1,6 +1,6 @@
 package TesteParidade;
 
-import br.com.es.construcao.paridade.Paridade;
+import br.ufg.inf.es.construcao.paridade.Paridade;
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertTrue;

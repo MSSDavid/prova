@@ -1,4 +1,4 @@
-package br.com.es.construcao.propriedade302507;
+package br.ufg.inf.es.construcao.propriedade302507;
 
 
 /**
