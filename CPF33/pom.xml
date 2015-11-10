@@ -22,11 +22,6 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>   
-    <dependency>
-      <groupId>br.ufg.inf.es.construcao</groupId>
-      <artifactId>Mod27</artifactId>
-      <version>1.0-SNAPSHOT</version>
-      <type>jar</type>
-    </dependency>
+
   </dependencies>
 </project>
