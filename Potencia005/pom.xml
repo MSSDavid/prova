@@ -23,7 +23,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-        <groupId>br.com.es.construcao</groupId>
+        <groupId>br.ufg.inf.es.construcao</groupId>
   <artifactId>Produto04</artifactId>
   <version>1.0-SNAPSHOT</version>
   <type>jar</type>
