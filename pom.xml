@@ -35,6 +35,7 @@
     <module>CPF34</module>
         <module>Harmonico13</module>
         <module>Somatorio14</module>
+        <module>Pi15</module>
     </modules>
 
     <build>
