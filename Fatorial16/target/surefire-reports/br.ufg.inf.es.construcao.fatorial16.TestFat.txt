@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: br.ufg.inf.es.construcao.fatorial16.TesteFatorial
+Test set: br.ufg.inf.es.construcao.fatorial16.TestFat
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.14 sec
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.12 sec

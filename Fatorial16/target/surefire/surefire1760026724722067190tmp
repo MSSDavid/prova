@@ -1,8 +1,0 @@
-#surefire
-#Sun Nov 08 02:42:19 BRST 2015
-maven.ext.class.path=C\:\\Program Files (x86)\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
-user.dir=C\:\\Users\\MarcusMitra\\Documents\\NetBeansProjects\\Fatorial16
-file.encoding=UTF-8
-localRepository=C\:\\Users\\MarcusMitra\\.m2\\repository
-basedir=C\:\\Users\\MarcusMitra\\Documents\\NetBeansProjects\\Fatorial16
-test=br.ufg.inf.es.construcao.fatorial16.TesteFatorial

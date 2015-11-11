@@ -8,9 +8,9 @@
     <version>1.0</version>
   </parent>
   <groupId>br.ufg.inf.es.construcao</groupId>
-  <artifactId>Pi15</artifactId>
+  <artifactId>Fat16</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Pi15</name>
+  <name>Fatorial16</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

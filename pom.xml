@@ -36,6 +36,7 @@
         <module>Harmonico13</module>
         <module>Somatorio14</module>
         <module>Pi15</module>
+        <module>Fatorial16</module>
     </modules>
 
     <build>
