@@ -11,7 +11,7 @@ package br.ufg.inf.es.construcao.paridade;
 public class Paridade {
     
     public static boolean paridade (int n) {
-        return ((n % 2) != 0);
+        return ((n % 2) == 0);
     }
     
 }
