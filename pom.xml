@@ -38,6 +38,7 @@
         <module>Pi15</module>
         <module>Fatorial16</module>
         <module>LogNatural18</module>
+        <module>RazaoAurea20</module>
     </modules>
 
     <build>
