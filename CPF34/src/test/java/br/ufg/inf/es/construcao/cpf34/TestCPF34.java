@@ -8,7 +8,7 @@ import static junit.framework.Assert.assertFalse;
  *
  * @author David
  */
-public class TestCPF34 {
+public class TestCrivo {
        
     @Test
     public void testCasos() {
