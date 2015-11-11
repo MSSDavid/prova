@@ -33,8 +33,6 @@
     <module>Hipotenusa38</module>
     <module>CPF33</module>
     <module>CPF34</module>
-        <module>Luhn35</module>
-        <module>Buble48</module>
     </modules>
 
     <build>
