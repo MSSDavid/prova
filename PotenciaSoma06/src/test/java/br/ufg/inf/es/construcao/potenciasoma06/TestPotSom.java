@@ -1,4 +1,4 @@
-package br.com.es.construcao.potenciasoma06;
+package br.ufg.inf.es.construcao.potenciasoma06;
 
 import org.junit.Assert;
 import org.junit.Test;

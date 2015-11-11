@@ -1,4 +1,4 @@
-package br.com.es.construcao.produto4;
+package br.ufg.inf.es.construcao.produto4;
 
 /**
  *
