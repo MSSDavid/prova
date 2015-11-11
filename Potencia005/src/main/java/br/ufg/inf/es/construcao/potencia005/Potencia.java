@@ -1,6 +1,6 @@
 package br.ufg.inf.es.construcao.potencia005;
 
-import br.ufg.inf.construcao.produto4.Produto;
+import br.ufg.inf.es.construcao.produto4.Produto;
  
 /**
  *
