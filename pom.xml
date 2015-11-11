@@ -37,6 +37,7 @@
         <module>Somatorio14</module>
         <module>Pi15</module>
         <module>Fatorial16</module>
+        <module>LogNatural18</module>
     </modules>
 
     <build>
