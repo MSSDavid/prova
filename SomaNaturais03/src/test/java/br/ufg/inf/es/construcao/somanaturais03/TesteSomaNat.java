@@ -1,6 +1,5 @@
 package br.ufg.inf.es.construcao.somanaturais03;
 
-import br.ufg.inf.es.construcao.somanaturais03.SomaNat;
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertEquals;
