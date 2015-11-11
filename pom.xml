@@ -37,7 +37,6 @@
         <module>Somatorio14</module>
         <module>Pi15</module>
         <module>Fatorial16</module>
-        <module>Fatorial17</module>
     </modules>
 
     <build>
