@@ -1,6 +1,5 @@
 package br.ufg.inf.es.construcao.produto4;
 
-import br.ufg.inf.es.construcao.produto4.Produto;
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertEquals;
