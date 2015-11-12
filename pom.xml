@@ -21,29 +21,29 @@
                  <module>DivideSubt25</module>
                  <module>Paridade02</module>
                  <module>SomaNaturais03</module>
-    <module>Potencia005</module>
-    <module>Primo09</module>
-    <module>MDC11</module>
-    <module>MCD212</module>
-    <module>Logn19</module>
-    <module>Mod27</module>
-    <module>RaizQuadrada29</module>
-    <module>SomaArray46</module>
-    <module>Hipotenusa38</module>
-    <module>CPF33</module>
-    <module>CPF34</module>
-        <module>Harmonico13</module>
-        <module>Somatorio14</module>
-        <module>Pi15</module>
-        <module>Fatorial16</module>
-        <module>LogNatural18</module>
-        <module>RazaoAurea20</module>
-        <module>QuadradoPerfeito</module>
-        <module>Fibonacci32</module>
-        <module>Amigos22</module>
-        <module>MEdiaArray47</module>
-        <module>Equac36</module>
-        <module>Permutar</module>
+                 <module>Potencia005</module>
+                 <module>Primo09</module>
+                 <module>MDC11</module>
+                 <module>MCD212</module>
+                 <module>Logn19</module>
+                 <module>Mod27</module>
+                 <module>RaizQuadrada29</module>
+                 <module>SomaArray46</module>
+                 <module>Hipotenusa38</module>
+                 <module>CPF33</module>
+                 <module>CPF34</module>
+                 <module>Harmonico13</module>
+                 <module>Somatorio14</module>
+                 <module>Pi15</module>
+                 <module>Fatorial16</module>
+                 <module>LogNatural18</module>
+                 <module>RazaoAurea20</module>
+                 <module>QuadradoPerfeito</module>
+                 <module>Fibonacci32</module>
+                 <module>Amigos22</module>
+                 <module>MEdiaArray47</module>
+                 <module>Equac36</module>
+                 <module>Permutar</module>
     </modules>
 
     <build>
