@@ -1,5 +1,8 @@
 package br.ufg.inf.es.construcao.razaoaurea20;
 
+/**
+ * Verifica a razão área.
+ */
 public class RA20 {
     
     public static double ra20(double t, double tt, double f) {
