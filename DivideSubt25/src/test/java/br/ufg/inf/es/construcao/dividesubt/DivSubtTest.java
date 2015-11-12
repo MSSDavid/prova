@@ -1,5 +1,6 @@
-package br.com.es.construcao.dividesubt;
+package br.ufg.inf.es.construcao.dividesubt;
 
+import br.ufg.inf.es.construcao.dividesubt.DivideSubt;
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertEquals;

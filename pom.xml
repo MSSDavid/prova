@@ -39,6 +39,8 @@
         <module>Fatorial16</module>
         <module>LogNatural18</module>
         <module>RazaoAurea20</module>
+        <module>QuadradoPerfeito</module>
+        <module>Fibonacci32</module>
     </modules>
 
     <build>

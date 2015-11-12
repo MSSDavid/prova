@@ -1,4 +1,4 @@
-package br.com.es.construcao.dividesubt;
+package br.ufg.inf.es.construcao.dividesubt;
 
 /**
  *
