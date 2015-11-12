@@ -1,11 +1,17 @@
 package br.ufg.inf.es.construcao.mdc11;
 
 /**
- *
- * @author alunoinf
+ * Calcula o máximo divisor comum entre dois inteiros.
  */
 public class Mdc {
-    
+
+    /**
+     * @param a Primeiro dos números a ser calculado.
+     * @trhow a Não deve ser menor que o segundo parâmetro.
+     * @param b Segundo dos números a ser calculado.
+     * @trhow b Não deve ser menor que o 0, nem maior que a. 
+     * @return Retorna o MDC de a e b.
+     */    
     public static int mdc(int a, int b) {
         
         if (a < b) {

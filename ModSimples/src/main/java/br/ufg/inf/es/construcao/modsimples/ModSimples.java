@@ -1,14 +1,17 @@
-package br.com.es.construcao.modsimples;
+package br.ufg.inf.es.construcao.modsimples;
 
-import br.com.es.construcao.dividesubt.DivideSubt;
+import br.ufg.inf.es.construcao.dividesubt.DivideSubt;
 
 /**
- * 
- * @author alunoinf
+ * Calcula o resto da divisão entre dois números
  */
 public class ModSimples {
     
-    
+    /**
+     * @param x Divisor da data a ser consultada
+     * @param y Dividendo da data a ser consultada
+     * @return  Recebe o resto da divisão dos números acima
+     */ 
     public static int modsimples(int x, int y) {
         
         if (x < 0) {

@@ -1,32 +1,31 @@
-package br.ufg.inf.es.construcao.primo09;
+package br.ufg.inf.es.construcao.amigos22;
 
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertTrue;
 import static junit.framework.Assert.assertFalse;
 
-public class TestePrimo {
+public class TesteAmigos {
 
     @Test(expected = IllegalArgumentException.class)
     public void testParametro1() throws Exception {
-        Primo.primo(1);
+        Amigos.amigos(0,1);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void testParametro2() throws Exception {
-        Primo.primo(-4);
+        Amigos.amigos(9,-9);
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void testeParametro3() throws Exception {
-        Primo.primo(-5529);
+        Amigos.amigos(-5529, -999);
     }
 
     @Test
     public void testCasos() {
-        Assert.assertTrue(Primo.primo(5));
-        Assert.assertFalse(Primo.primo(10));
-        Assert.assertTrue(Primo.primo(7));
+        Assert.assertTrue(Amigos.amigos(220, 284));
+        Assert.assertFalse(Amigos.amigos(10, 15));
 
     }
 }

@@ -1,8 +1,21 @@
 package br.ufg.inf.es.construcao.amigos22;
 
+import br.ufg.inf.es.construcao.somadiv.SomaDiv;
+
+/**
+ * Calcula se dois inteiros são 'amigos' ou seja, se cada um deles 
+ * é a soma dos divisores do outro.
+ */
 public class Amigos {
-    
-    public static int amigos(int n, int m) {
+
+    /**
+     * @param n Primeiro dos números a ser verificado
+     * @trhow n Não deve ser menor que zero.
+     * @param m Segundo dos números a ser verificado.
+     * @trhow m Não deve ser menor que zero. 
+     * @return Retorna o MDC de a e b.
+     */     
+    public static boolean amigos(int n, int m) {
         if (m < 0) {
             throw new IllegalArgumentException("m: Menor que 0");
         }
@@ -10,15 +23,10 @@ public class Amigos {
             throw new IllegalArgumentException("n: Menor que 0");
         }
         
-        int i = 2;
-        int f = 1;
+        int sn = SomaDiv.somaDiv(n);
+        int sm = SomaDiv.somaDiv(m);
         
-        while (i <= n) {
-            f = (f * i);
-            i += 1;
-        }
-        
-        return f;
+        return(sn==sm);
     }
     
 }

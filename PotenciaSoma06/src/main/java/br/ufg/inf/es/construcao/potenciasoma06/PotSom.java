@@ -1,14 +1,15 @@
 package br.ufg.inf.es.construcao.potenciasoma06;
 
-/*import br.com.es.construcao.produto4;*/
 /**
- * x: Base
- * y: Potencia
- * p: Variável Auxiliar
- * d: Resultado
+ * Calcula a potência de uma base e um expoente
  */
 public class PotSom {
-    
+
+    /**
+     * @param x Base
+     * @param y Expoente
+     * @return Resultado da potência de x por y
+     */     
     public static int potsom(int x, int y) {
         
         if (x <= 0) {

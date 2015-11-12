@@ -1,11 +1,15 @@
 package br.ufg.inf.es.construcao.produto4;
 
 /**
- *
- * @author alunoinf
+ * Produto entre dois fatores
  */
 public class Produto {
     
+     /**
+     * @param a Primeiro fator a ser multiplicado
+     * @param b Segundo fator a ser multiplicado
+     * @return  Recebe o produto dos dois parâmetros;
+     */
     public static int produto (int a, int b) {
         
         if (a < 0) {

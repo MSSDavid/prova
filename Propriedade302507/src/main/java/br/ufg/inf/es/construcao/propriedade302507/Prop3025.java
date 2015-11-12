@@ -1,14 +1,15 @@
 package br.ufg.inf.es.construcao.propriedade302507;
 
-
 /**
- * x: Base
- * y: Potencia
- * p: Variável Auxiliar
- * d: Resultado
+ * Calcula a propriedade em que o XXYY=(XX+YY)*(XX+YY)
  */
 public class Prop3025 {
-    
+
+    /**
+     * @param n Número a ter sua propriedade avaliada
+     * @return Retorna um valor verdadeiro caso o número atenda a propriedade,
+     * ou falso, caso não atenda.
+     */      
     public static boolean prop3025(int n) {
         
         if (n < 0) {

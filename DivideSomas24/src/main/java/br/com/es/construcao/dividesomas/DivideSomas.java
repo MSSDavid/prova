@@ -1,13 +1,15 @@
 package br.com.es.construcao.dividesomas;
 
 /**
-* x: Dividendo
- * y: Divisor
- * s: Variável Auxiliar
- * d: Quociente
+ * Calcula a divisão entre dois números, por meio de somas.
  */
 public class DivideSomas {
-    
+
+    /**
+     * @param x Dividendo
+     * @param y Divisor
+     * @return Resultado da divisão entre o primeiro e o segundo parâmentro.
+     */      
     public static int divideSomas(int x, int y) {
         
         if (x < 0) {

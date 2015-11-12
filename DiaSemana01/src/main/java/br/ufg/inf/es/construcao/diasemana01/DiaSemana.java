@@ -1,11 +1,16 @@
 package br.ufg.inf.es.construcao.diasemana01;
 
 /**
- *
- * @author alunoinf
+ * Informa o dia da semana (quarta, quinta) de uma data a partir de 1753
  */
 public class DiaSemana {
-    
+     
+     /**
+     * @param d Dia da data a ser consultada
+     * @param m Mês da data a ser consultada
+     * @param a Ano da data a ser consultada 
+     * @return  Recebe o número correspondente (0: segunda, 1: terça...);
+     */    
     public static int diasemana (int d, int m, int a) {
         if ((d < 1) || (d > 31)) {
             throw new IllegalArgumentException("d: Fora da faixa de 1-31");

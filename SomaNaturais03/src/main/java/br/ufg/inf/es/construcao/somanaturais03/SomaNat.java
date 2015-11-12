@@ -1,11 +1,14 @@
 package br.ufg.inf.es.construcao.somanaturais03;
 
 /**
- *
- * @author alunoinf
+ * Soma dos termos de uma progressão aritmética. 
  */
 public class SomaNat {
-    
+
+    /**
+     * @param n Último termo da progressão.
+     * @return Retorna a soma dos termos de uma progressão aritmética.
+     */        
     public static int somanat (int n) {
         if (n < 1) {
             throw new IllegalArgumentException("n: Menor que 1");
