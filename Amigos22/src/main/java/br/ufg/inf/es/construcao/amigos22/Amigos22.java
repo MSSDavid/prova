@@ -24,9 +24,10 @@ public class Amigos22 {
         }
         
         int sn = SomaDiv.somaDiv(n);
-        int sm = SomaDiv.somaDiv(m);
+
+        int sm = SomaDiv.somaDiv(m); 
         
-        return (sn == sm);
+        return ((sn==m)&(sm==n));
     }
     
 }

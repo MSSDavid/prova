@@ -9,7 +9,7 @@ public class TesteAmigos {
 
     @Test(expected = IllegalArgumentException.class)
     public void testParametro1() throws Exception {
-        Amigos22.amigos(0,1);
+        Amigos22.amigos(0,-9);
     }
 
     @Test(expected = IllegalArgumentException.class)
@@ -24,8 +24,7 @@ public class TesteAmigos {
 
     @Test
     public void testCasos() {
-        Assert.assertTrue(Amigos22.amigos(220, 284));
-        Assert.assertFalse(Amigos22.amigos(10, 15));
-
+        Assert.assertTrue(Amigos22.amigos(284, 220));
+        Assert.assertFalse(Amigos22.amigos(2848, 220));
     }
 }
