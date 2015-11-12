@@ -41,6 +41,7 @@
         <module>QuadradoPerfeito</module>
         <module>Fibonacci32</module>
         <module>Amigos22</module>
+        <module>MEdiaArray47</module>
     </modules>
 
     <build>
