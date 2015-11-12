@@ -42,6 +42,8 @@
         <module>Fibonacci32</module>
         <module>Amigos22</module>
         <module>MEdiaArray47</module>
+        <module>Equac36</module>
+        <module>Permutar</module>
     </modules>
 
     <build>
