@@ -19,7 +19,7 @@ public class MediaArray47 {
         }
                
         
-        int s = SomaArray46.somaarray46(A[], n);
+        int s = SomaArray46.somaarray46(A, n);
         
         return s/n;
     }
