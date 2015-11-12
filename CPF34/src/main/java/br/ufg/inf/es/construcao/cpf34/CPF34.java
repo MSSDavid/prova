@@ -2,8 +2,15 @@ package br.ufg.inf.es.construcao.cpf34;
 
 import br.ufg.inf.es.construcao.mod27.Mod27;
 
+/**
+ * Verifica se o número é um CPF válido
+ */
 public class CPF34 {
-    
+
+    /**
+     * @param d[] CPF a ser verificado
+     * @return Verdadeiro se for válido e falso se for inválido.
+     */     
     public static boolean cpf(int d[]) {
         
         

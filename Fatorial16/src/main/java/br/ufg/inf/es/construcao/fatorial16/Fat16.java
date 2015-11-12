@@ -1,14 +1,15 @@
 package br.ufg.inf.es.construcao.fatorial16;
 
-/*import br.com.es.construcao.produto4;*/
 /**
- * x: Base
- * y: Potencia
- * p: Variável Auxiliar
- * d: Resultado
+ * Calcula o fatoria de um número.
  */
 public class Fat16 {
-    
+
+    /**
+     * @param n Número a ser fatorado.
+     * @trhow n Não deve ser menor que 1.
+     * @return Resultado do fatorial de n.
+     */       
     public static long fat(long n) {
         
         if (n < 1) {

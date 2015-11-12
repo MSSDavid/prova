@@ -1,14 +1,15 @@
 package br.ufg.inf.es.construcao.pi15;
 
-/*import br.com.es.construcao.produto4;*/
 /**
- * x: Base
- * y: Potencia
- * p: Variável Auxiliar
- * d: Resultado
+ * Calcula o pi.
  */
 public class Pi15 {
-    
+
+    /**
+     * @param n Quanto maior, mais preciso será de pi.
+     * @trhow n Não deve ser menor que 1.
+     * @return Resultado do fatorial de n.
+     */     
     public static double pi(int n) {
         
         if (n < 1) {

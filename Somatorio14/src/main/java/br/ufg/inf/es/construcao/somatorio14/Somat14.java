@@ -1,14 +1,15 @@
 package br.ufg.inf.es.construcao.somatorio14;
 
-/*import br.com.es.construcao.produto4;*/
 /**
- * x: Base
- * y: Potencia
- * p: Variável Auxiliar
- * d: Resultado
+ * Somatório de várias frações 1/1+...+1/n-1+1/n
  */
 public class Somat14 {
-    
+
+    /**
+     * @param n Número de vezes que será feita a fração.
+     * @trhow n Não deve ser menor que 1.
+     * @return Resultado do somatíro das frações.
+     */      
     public static double somat(int n) {
         
         if (n < 1) {
