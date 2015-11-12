@@ -1,4 +1,4 @@
-package br.com.es.construcao.somadiv;
+package br.ufg.inf.es.construcao.somadiv;
 
 /**
  *

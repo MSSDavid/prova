@@ -25,7 +25,6 @@
     <module>Primo09</module>
     <module>MDC11</module>
     <module>MCD212</module>
-    <module>Amigos22</module>
     <module>Logn19</module>
     <module>Mod27</module>
     <module>RaizQuadrada29</module>
@@ -41,6 +40,7 @@
         <module>RazaoAurea20</module>
         <module>QuadradoPerfeito</module>
         <module>Fibonacci32</module>
+        <module>Amigos22</module>
     </modules>
 
     <build>

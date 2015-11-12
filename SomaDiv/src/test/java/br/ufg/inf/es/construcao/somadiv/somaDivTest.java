@@ -1,5 +1,6 @@
-package br.com.es.construcao.somadiv;
+package br.ufg.inf.es.construcao.somadiv;
 
+import br.ufg.inf.es.construcao.somadiv.SomaDiv;
 import org.junit.Assert;
 import org.junit.Test;
 import static junit.framework.Assert.assertEquals;
