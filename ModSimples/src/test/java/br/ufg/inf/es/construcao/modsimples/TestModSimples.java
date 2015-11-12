@@ -1,4 +1,4 @@
-package br.com.es.construcao.modsimples;
+package br.ufg.inf.es.construcao.modsimples;
 
 import org.junit.Assert;
 import org.junit.Test;
