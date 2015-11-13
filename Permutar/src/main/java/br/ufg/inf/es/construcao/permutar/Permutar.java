@@ -7,6 +7,14 @@ import java.util.List;
  * de um conjunto.
  */
 public class Permutar {
+    
+    /**
+     * @param prefixo Inicia-se vazia para depois ser inicializada.
+     * @param conjunto conjunto de letras que será permutado.    
+     * @param resultadoParcial resultado parcial das permutações.
+     * @return Uma lista com todas as conbinações diferentes das letras.
+     * de um conjunto.
+     */
     public static List<String> permuta( String prefixo, String conjunto,
             List<String> resultadoParcial) {
         if (conjunto.length() == 1) {
