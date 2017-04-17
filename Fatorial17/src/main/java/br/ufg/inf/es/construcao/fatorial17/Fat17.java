@@ -19,7 +19,7 @@ public class Fat17 {
         int f = 1;
                 
         while (i <= n) {
-            f = Produto.produto(i,i);
+            f = Produto.produto(f,i);
             i++;
         }
         
